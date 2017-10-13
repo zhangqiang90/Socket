@@ -1,0 +1,16 @@
+E:\Project\SocketService\WindowsTest\bin\Debug\WindowsTest.exe.config
+E:\Project\SocketService\WindowsTest\bin\Debug\WindowsTest.exe
+E:\Project\SocketService\WindowsTest\bin\Debug\WindowsTest.pdb
+E:\Project\SocketService\WindowsTest\bin\Debug\MySql.Data.dll
+E:\Project\SocketService\WindowsTest\bin\Debug\WebSocket.Model.dll
+E:\Project\SocketService\WindowsTest\bin\Debug\WebsocketCore.dll
+E:\Project\SocketService\WindowsTest\bin\Debug\WebSocketDB.dll
+E:\Project\SocketService\WindowsTest\bin\Debug\WebSocket.Model.pdb
+E:\Project\SocketService\WindowsTest\bin\Debug\WebsocketCore.pdb
+E:\Project\SocketService\WindowsTest\bin\Debug\WebSocketDB.pdb
+E:\Project\SocketService\WindowsTest\obj\Debug\WindowsTest.csprojResolveAssemblyReference.cache
+E:\Project\SocketService\WindowsTest\obj\Debug\WindowsTest.Form1.resources
+E:\Project\SocketService\WindowsTest\obj\Debug\WindowsTest.Properties.Resources.resources
+E:\Project\SocketService\WindowsTest\obj\Debug\WindowsTest.csproj.GenerateResource.Cache
+E:\Project\SocketService\WindowsTest\obj\Debug\WindowsTest.exe
+E:\Project\SocketService\WindowsTest\obj\Debug\WindowsTest.pdb

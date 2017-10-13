@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsocketCore", "WebsocketCore\WebsocketCore.csproj", "{863B0514-03F1-47DB-85C2-44930874ACA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketPage", "WebSocketPage\WebSocketPage.csproj", "{D09E4CD6-6860-4A09-91E2-4D621E208C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocket.Model", "WebSocket.Model\WebSocket.Model.csproj", "{BBD420D0-E7FA-4378-B982-695EBF9D038C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketDB", "WebSocketDB\WebSocketDB.csproj", "{802A6496-0303-4583-AFEB-C093BE250D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODBSocketService", "ODBSocketService\ODBSocketService.csproj", "{1D3FA372-919E-4EB6-BCBF-44EFD3806A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsTest", "WindowsTest\WindowsTest.csproj", "{AE857552-BE3E-48EB-9083-2289CB2B1DED}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.1.116:8080/tfs/elongprojuectcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ODBSocketService\\ODBSocketService.csproj
+		SccProjectName1 = ODBSocketService
+		SccLocalPath1 = ODBSocketService
+		SccProjectUniqueName2 = WebSocket.Model\\WebSocket.Model.csproj
+		SccProjectName2 = WebSocket.Model
+		SccLocalPath2 = WebSocket.Model
+		SccProjectUniqueName3 = WebsocketCore\\WebsocketCore.csproj
+		SccProjectName3 = WebsocketCore
+		SccLocalPath3 = WebsocketCore
+		SccProjectUniqueName4 = WebSocketDB\\WebSocketDB.csproj
+		SccProjectName4 = WebSocketDB
+		SccLocalPath4 = WebSocketDB
+		SccProjectUniqueName5 = WebSocketPage\\WebSocketPage.csproj
+		SccProjectName5 = WebSocketPage
+		SccLocalPath5 = WebSocketPage
+		SccProjectUniqueName6 = WindowsTest\\WindowsTest.csproj
+		SccProjectName6 = WindowsTest
+		SccLocalPath6 = WindowsTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863B0514-03F1-47DB-85C2-44930874ACA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863B0514-03F1-47DB-85C2-44930874ACA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863B0514-03F1-47DB-85C2-44930874ACA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863B0514-03F1-47DB-85C2-44930874ACA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09E4CD6-6860-4A09-91E2-4D621E208C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09E4CD6-6860-4A09-91E2-4D621E208C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09E4CD6-6860-4A09-91E2-4D621E208C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09E4CD6-6860-4A09-91E2-4D621E208C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD420D0-E7FA-4378-B982-695EBF9D038C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD420D0-E7FA-4378-B982-695EBF9D038C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD420D0-E7FA-4378-B982-695EBF9D038C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD420D0-E7FA-4378-B982-695EBF9D038C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802A6496-0303-4583-AFEB-C093BE250D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802A6496-0303-4583-AFEB-C093BE250D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802A6496-0303-4583-AFEB-C093BE250D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802A6496-0303-4583-AFEB-C093BE250D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3FA372-919E-4EB6-BCBF-44EFD3806A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3FA372-919E-4EB6-BCBF-44EFD3806A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3FA372-919E-4EB6-BCBF-44EFD3806A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3FA372-919E-4EB6-BCBF-44EFD3806A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE857552-BE3E-48EB-9083-2289CB2B1DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE857552-BE3E-48EB-9083-2289CB2B1DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE857552-BE3E-48EB-9083-2289CB2B1DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE857552-BE3E-48EB-9083-2289CB2B1DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

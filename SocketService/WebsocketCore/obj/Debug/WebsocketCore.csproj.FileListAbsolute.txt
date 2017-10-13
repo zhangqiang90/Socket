@@ -1,0 +1,17 @@
+E:\Project\JTMCloundNew\Bin\dotnet4.0\WebsocketCore.dll
+E:\Project\JTMCloundNew\Bin\dotnet4.0\WebsocketCore.pdb
+E:\Project\JTMCloundNew\ELSoftFramework.NET V3.0\WebsocketCore\obj\Debug\WebsocketCore.csprojResolveAssemblyReference.cache
+E:\Project\JTMCloundNew\ELSoftFramework.NET V3.0\WebsocketCore\obj\Debug\WebsocketCore.dll
+E:\Project\JTMCloundNew\ELSoftFramework.NET V3.0\WebsocketCore\obj\Debug\WebsocketCore.pdb
+E:\资料文件\Bin\dotnet4.0\WebsocketCore.dll
+E:\资料文件\Bin\dotnet4.0\WebsocketCore.pdb
+E:\资料文件\SocketService\WebsocketCore\obj\Debug\WebsocketCore.dll
+E:\资料文件\SocketService\WebsocketCore\obj\Debug\WebsocketCore.pdb
+E:\资料文件\SocketService\Bin\WebsocketCore.dll
+E:\资料文件\SocketService\Bin\WebsocketCore.pdb
+E:\资料文件\SocketService\WebsocketCore\obj\Debug\WebsocketCore.csprojResolveAssemblyReference.cache
+E:\Project\SocketService\Bin\WebsocketCore.dll
+E:\Project\SocketService\WebsocketCore\obj\Debug\WebsocketCore.dll
+E:\Project\SocketService\WebsocketCore\obj\Debug\WebsocketCore.pdb
+E:\Project\SocketService\Bin\WebsocketCore.pdb
+E:\Project\SocketService\WebsocketCore\obj\Debug\WebsocketCore.csprojResolveAssemblyReference.cache

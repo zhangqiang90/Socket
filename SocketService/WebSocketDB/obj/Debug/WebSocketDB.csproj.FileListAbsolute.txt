@@ -1,0 +1,15 @@
+E:\资料文件\SocketService\WebSocketDB\bin\Debug\WebSocketDB.dll
+E:\资料文件\SocketService\WebSocketDB\bin\Debug\WebSocketDB.pdb
+E:\资料文件\SocketService\WebSocketDB\bin\Debug\MySql.Data.dll
+E:\资料文件\SocketService\WebSocketDB\obj\Debug\WebSocketDB.csprojResolveAssemblyReference.cache
+E:\资料文件\SocketService\WebSocketDB\obj\Debug\WebSocketDB.dll
+E:\资料文件\SocketService\WebSocketDB\obj\Debug\WebSocketDB.pdb
+E:\资料文件\SocketService\WebSocketDB\bin\Debug\WebSocket.Model.dll
+E:\资料文件\SocketService\WebSocketDB\bin\Debug\WebSocket.Model.pdb
+E:\资料文件\SocketService\Bin\WebSocketDB.dll
+E:\资料文件\SocketService\Bin\WebSocketDB.pdb
+E:\Project\SocketService\Bin\WebSocketDB.dll
+E:\Project\SocketService\Bin\WebSocketDB.pdb
+E:\Project\SocketService\WebSocketDB\obj\Debug\WebSocketDB.csprojResolveAssemblyReference.cache
+E:\Project\SocketService\WebSocketDB\obj\Debug\WebSocketDB.dll
+E:\Project\SocketService\WebSocketDB\obj\Debug\WebSocketDB.pdb

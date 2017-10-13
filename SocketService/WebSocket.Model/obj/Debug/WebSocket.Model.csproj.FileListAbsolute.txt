@@ -1,0 +1,10 @@
+E:\资料文件\SocketService\WebSocket.Model\bin\Debug\WebSocket.Model.dll
+E:\资料文件\SocketService\WebSocket.Model\bin\Debug\WebSocket.Model.pdb
+E:\资料文件\SocketService\WebSocket.Model\obj\Debug\WebSocket.Model.dll
+E:\资料文件\SocketService\WebSocket.Model\obj\Debug\WebSocket.Model.pdb
+E:\资料文件\SocketService\Bin\WebSocket.Model.dll
+E:\资料文件\SocketService\Bin\WebSocket.Model.pdb
+E:\Project\SocketService\Bin\WebSocket.Model.dll
+E:\Project\SocketService\Bin\WebSocket.Model.pdb
+E:\Project\SocketService\WebSocket.Model\obj\Debug\WebSocket.Model.dll
+E:\Project\SocketService\WebSocket.Model\obj\Debug\WebSocket.Model.pdb
